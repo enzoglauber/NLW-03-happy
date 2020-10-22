@@ -1,9 +1,8 @@
-<h1 align="center" style="background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%); padding-top: 20px">
+<h1 align="center" style="background:#29b6d1 ; padding-top: 20px">
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
 
-<p align="center">	
-   <a href="https://www.linkedin.com/in/enzo-glauber/">
+<p align="center">	<a href="https://www.linkedin.com/in/enzo-glauber/">
       <img alt="Enzo Glauber" src="https://img.shields.io/badge/-enzoglauber-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/enzoglauber/NLW-03-happy?color=774DD6">
